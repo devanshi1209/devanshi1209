@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-🚀 Dedicated and detail-oriented **Computer Engineer** with expertise in **C/C++, Python, Java, and ASP .Net (C#).**  
+🚀 Dedicated and detail-oriented **Computer Engineer** with expertise in **C/C++, Python, Java**  
 💡 Passionate about **problem-solving, software development, UI/UX, and networking.**  
 
 ---
@@ -12,23 +12,21 @@
 ## 👀 Interests  
 - 💻 **Software Development**  
 - 🤖 **Machine Learning & AI**  
-- 🌐 **API Development & Web Technologies**  
 - 🎨 **UI/UX Design**  
 
 ---
 
 ## 🌱 Currently Learning  
-📌 **Machine Learning & AI**  
-📌 **ASP .Net Core (C#)**  
-📌 **Full Stack Development**  
 📌 **UI/UX Design**  
+📌 **Machine Learning & AI**  
+📌 **Full Stack Development**  
 
 ---
 
-## 💞 Looking to Collaborate On  
-✅ **Machine Learning Projects**  
+## 💞 Looking to Collaborate On 
+
 ✅ **UI/UX Design Projects**  
-✅ **Open Source Contributions**  
+✅ **Machine Learning Projects**  
 
 ---
 
@@ -87,7 +85,6 @@
 ## 😄 Fun Facts  
 ✨ **Tech + Creativity** - I love coding **AND** designing! 🎨💻  
 📚 **Bookworm Alert** - Fiction & Romance novels keep me inspired!  
-🌅 **Sunset Lover** - Nothing beats watching a breathtaking sunset!  
 
 ---
 
