@@ -1,32 +1,28 @@
 <h1 align="center"> 👋 Hey, I'm Devanshi! </h1>
-<h3 align="center"> 🚀 Computer Engineer | Software Developer | UI/UX Enthusiast </h3>
+<h3 align="center"> 🚀 Computer Engineer | UI/UX Enthusiast </h3>
 
 ---
 
 ## 🌟 About Me  
 🚀 Dedicated and detail-oriented **Computer Engineer** with expertise in **C/C++, Python, Java**  
-💡 Passionate about **problem-solving, software development, UI/UX, and networking.**  
+💡 Passionate about **problem-solving,UI/UX, and networking.**  
 
 ---
 
 ## 👀 Interests  
-- 💻 **Software Development**  
-- 🤖 **Machine Learning & AI**  
-- 🎨 **UI/UX Design**  
 
+- 🎨 **UI/UX Design**  
+- 🤖 **Machine Learning & AI**  
 ---
 
 ## 🌱 Currently Learning  
 📌 **UI/UX Design**  
-📌 **Machine Learning & AI**  
-📌 **Full Stack Development**  
 
 ---
 
 ## 💞 Looking to Collaborate On 
 
 ✅ **UI/UX Design Projects**  
-✅ **Machine Learning Projects**  
 
 ---
 
